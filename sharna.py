@@ -53,9 +53,9 @@ def curveFit(x, y):
 
 
 
-# url = 'https://jumpshare.com/s/iv3FR1EGOAXX4xsn46N2'
-# data = pd.read_csv(url)
-data = pd.read_csv("C:\\Users\\mjmeh\\Downloads\\2003009.csv")
+url = 'https://raw.githubusercontent.com/sharna33/2003009_Assignment_CSE2203/main/2003009.csv'
+data = pd.read_csv(url)
+
 
 # years = [2009, 2011, 2013, 2015]
 # population = [149079155, 152511195, 156207391, 160036578]
